@@ -1,6 +1,6 @@
 # conversor_de_moedas
 
-A new Flutter project.
+Simple flutter project using API using to get the real values of coins.
 
 ## Getting Started
 
