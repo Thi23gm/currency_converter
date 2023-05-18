@@ -1,17 +1,6 @@
 # conversor_de_moedas
 
-Simple flutter project using API using to get the real values of coins.
+Projeto simples de Flutter usando PreferenceShered para a materia de Laboratorio de Desenvolvimento Mobile ( LDDM )
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# currency_converter
+O app usa uma API disponivel na web de conversor de moedas para pegar o valor real e atuaizado das moedas e fazer a conversçao para a moeda desejada
+O PreferenceShered está sendo usado para os temas do app ( Dark ou Ligth )
